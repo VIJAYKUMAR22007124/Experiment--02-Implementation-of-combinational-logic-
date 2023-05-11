@@ -48,14 +48,14 @@ RegisterNumber:212222230173
 
 ## RTL realization
 
-## Output:
+## Timing Diagram:
 ![combination1](https://github.com/VIJAYKUMAR22007124/Experiment--02-Implementation-of-combinational-logic-/assets/119657657/82685b07-fbff-4be5-911d-ae37f88ba5a5)
 
 
 ## RTL
 ![combination](https://github.com/VIJAYKUMAR22007124/Experiment--02-Implementation-of-combinational-logic-/assets/119657657/dfe6d530-9812-42a1-9668-b3643028b616)
 
-## Timing Diagram
+## TRUTH TABLE
 ![truth 2](https://github.com/VIJAYKUMAR22007124/Experiment--02-Implementation-of-combinational-logic-/assets/119657657/46ee67c5-9d21-4d71-80f1-04a9e048acb0)
 
 
