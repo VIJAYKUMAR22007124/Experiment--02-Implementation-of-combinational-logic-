@@ -18,7 +18,8 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 ## Logic Diagram
 ## Procedure
-## Program:```
+## Program:
+```
 module combination(a,b,c,d,x,y,z,w,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
@@ -37,11 +38,11 @@ assign f1=(a1|a2|a3|a4|a5);
 assign f2=(b1|b2|b3|b4|b5);
 endmodule
 ```
-/*
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: B.VIJAY KUMAR
 RegisterNumber:212222230173  
-*/
+
 ## RTL realization
 
 ## Output:
