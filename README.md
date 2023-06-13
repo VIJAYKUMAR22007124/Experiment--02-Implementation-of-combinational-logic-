@@ -42,7 +42,7 @@ Developed by: B.VIJAY KUMAR
 
 RegisterNumber:212222230173 
 
-## RTL realization
+
 
 ## Timing Diagram:
 ![combination1](https://github.com/VIJAYKUMAR22007124/Experiment--02-Implementation-of-combinational-logic-/assets/119657657/82685b07-fbff-4be5-911d-ae37f88ba5a5)
